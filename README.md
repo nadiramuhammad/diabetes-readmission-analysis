@@ -117,35 +117,35 @@ The project includes various visualizations to analyze diabetes patient characte
 
 
 ### Screenshots
-![Distribution of Patient Readmission Status](./Piechart-Matplotlib.png)
+![Distribution of Patient Readmission Status](./screenshots/Piechart-Matplotlib.png)
 
-![Readmission Status by Gender](./Countplot1-Seaborn.png)
+![Readmission Status by Gender](./screenshots/Countplot1-Seaborn.png)
 
-![Distribution of Patients Across Age Groups](./BarChart1-Plotly.jpg)
+![Distribution of Patients Across Age Groups](./screenshots/BarChart1-Plotly.jpg)
 
-![Hospital Stay Duration Across Different Age Groups](./Violinplot-Seaborn.png)
+![Hospital Stay Duration Across Different Age Groups](./screenshots/Violinplot-Seaborn.png)
 
-![Readmission Status by Admission Type](./Countplot2-Seaborn.jpg)
+![Readmission Status by Admission Type](./screenshots/Countplot2-Seaborn.jpg)
 
-![Top 5 Discharge Disposition and Readmission Patterns](./StackedBar1-Matplotlib.jpg)
+![Top 5 Discharge Disposition and Readmission Patterns](./screenshots/StackedBar1-Matplotlib.jpg)
 
-![Top 5 Admission Sources and Readmission Patterns](./Countplot3-Seaborn.jpg)
+![Top 5 Admission Sources and Readmission Patterns](./screenshots/Countplot3-Seaborn.jpg)
 
-![Hospital Stay by Readmission Status](./Boxplot-Plotly.jpg)
+![Hospital Stay by Readmission Status](./screenshots/Boxplot-Plotly.jpg)
 
-![Distribution of Hospital Stay Duration](./Histplot-Seaborn.jpg)
+![Distribution of Hospital Stay Duration](./screenshots/Histplot-Seaborn.jpg)
 
-![Readmission Distribution Across Different Racial Groups](./BarChart2-Matplotlib.jpg)
+![Readmission Distribution Across Different Racial Groups](./screenshots/BarChart2-Matplotlib.jpg)
 
-![Correlation Heatmap of Numerical Healthcare Features](./Corelation-Heatmap-Seaborn.png)
+![Correlation Heatmap of Numerical Healthcare Features](./screenshots/Corelation-Heatmap-Seaborn.png)
 
-![Readmission Distribution Across Age Groups](./StackedBar2-Matplotlib.jpg)
+![Readmission Distribution Across Age Groups](./screenshots/StackedBar2-Matplotlib.jpg)
 
-![Patient Distribution by Admission Type](./Treemap-Plotly.jpg)
+![Patient Distribution by Admission Type](./screenshots/Treemap-Plotly.jpg)
 
-![Pairplot of Key Clinical Features by Readmission Status](./Pairplot-Seaborn.png)
+![Pairplot of Key Clinical Features by Readmission Status](./screenshots/Pairplot-Seaborn.png)
 
-![Average Hospital Stay by HbA1c and Glucose Serum Results](./BarChart3-Seaborn.jpg)
+![Average Hospital Stay by HbA1c and Glucose Serum Results](./screenshots/BarChart3-Seaborn.jpg)
 
 
 
@@ -158,9 +158,9 @@ The project includes various visualizations to analyze diabetes patient characte
 
 • **Main Project-Healthcare.ipynb** – Jupyter Notebook containing data loading, data cleaning, preprocessing, exploratory data analysis (EDA), visualizations, and insights generation using Python.
 
-• **images/** – Folder containing screenshots of visualizations created during the analysis.
+• **screenshots/** – Folder containing screenshots of visualizations created during the analysis.
 
-• **README.md** – Project overview, objectives, analysis process, key insights, and project documentation.
+• **README.md** – Project overview, objectives, analysis process, screenshots, key insights, and project documentation.
 
 ## 8. How to Use
 
