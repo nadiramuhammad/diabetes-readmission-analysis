@@ -97,6 +97,8 @@ o readmitted    etc.
 
 The project includes various visualizations to analyze diabetes patient characteristics, hospitalization patterns, and readmission trends.
 
+• Pie charts representing categorical distributions such as readmission status. 
+ 
 • Bar charts showing patient distribution across age groups, gender, and admission types.
 
 • Count plots analyzing readmission patterns and relationships with patient attributes.
@@ -107,13 +109,16 @@ The project includes various visualizations to analyze diabetes patient characte
 
 • Violin plot showing the distribution of hospital stay duration across different age groups to analyze variations and spread of hospitalization duration      among patient age categories. 
 
-• Pie charts representing categorical distributions such as readmission status. 
+• Tree map representing categorical distributions such as admission type. 
 
 • Pair plots exploring relationships between numerical healthcare variables. 
 
 • Interactive Plotly charts for enhanced exploration of healthcare data patterns.
 
 (Screenshots of visualizations can be added here if required.)
+
+### Screenshots
+![Distribution of Patient Readmission Status](./Piechart-Matplotlib.png)
 
 ## 7. Files Included
 
