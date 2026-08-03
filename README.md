@@ -15,7 +15,7 @@ The project demonstrates the complete data analysis workflow, including data cle
 **• Plotly**- Interactive - interactive, web-based data visualizations
 
 ## 3. Dataset
-**• Source: ** UCI Machine Learning Repository
+**• Source:** UCI Machine Learning Repository
 
 **• Description:** The dataset contains Diabetic patient's information with the following key columns:
 o age_group	
