@@ -12,7 +12,7 @@ The project demonstrates the complete data analysis workflow, including data cle
 
 **• Seaborn** – Advanced and statistical visualizations
 
-**• Plotly**- Interactive - interactive, web-based data visualizations
+**• Plotly** - Interactive, web-based data visualizations
 
 ## 3. Dataset
 **• Source:** UCI Machine Learning Repository
