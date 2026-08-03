@@ -158,7 +158,7 @@ The project includes various visualizations to analyze diabetes patient characte
 
 • **Main Project-Healthcare.ipynb** – Jupyter Notebook containing data loading, data cleaning, preprocessing, exploratory data analysis (EDA), visualizations, and insights generation using Python.
 
-• **screenshots/** – Folder containing screenshots of visualizations created during the analysis.
+• **screenshots** – Folder containing screenshots of visualizations created during the analysis.
 
 • **README.md** – Project overview, objectives, analysis process, screenshots, key insights, and project documentation.
 
