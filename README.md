@@ -115,10 +115,40 @@ The project includes various visualizations to analyze diabetes patient characte
 
 • Interactive Plotly charts for enhanced exploration of healthcare data patterns.
 
-(Screenshots of visualizations can be added here if required.)
 
 ### Screenshots
 ![Distribution of Patient Readmission Status](./Piechart-Matplotlib.png)
+
+![Readmission Status by Gender](./Countplot1-Seaborn.png)
+
+![Distribution of Patients Across Age Groups](./BarChart1-Plotly.jpg)
+
+![Hospital Stay Duration Across Different Age Groups](./Violinplot-Seaborn.png)
+
+![Readmission Status by Admission Type](./Countplot2-Seaborn.jpg)
+
+![Top 5 Discharge Disposition and Readmission Patterns](./StackedBar1-Matplotlib.jpg)
+
+![Top 5 Admission Sources and Readmission Patterns](./Countplot3-Seaborn.jpg)
+
+![Hospital Stay by Readmission Status](./Boxplot-Plotly.jpg)
+
+![Distribution of Hospital Stay Duration](./Histplot-Seaborn.jpg)
+
+![Readmission Distribution Across Different Racial Groups](./BarChart2-Matplotlib.jpg)
+
+![Correlation Heatmap of Numerical Healthcare Features](./Corelation-Heatmap-Seaborn.png)
+
+![Readmission Distribution Across Age Groups](./StackedBar2-Matplotlib.jpg)
+
+![Patient Distribution by Admission Type](./Treemap-Plotly.jpg)
+
+![Pairplot of Key Clinical Features by Readmission Status](./Pairplot-Seaborn.png)
+
+![Average Hospital Stay by HbA1c and Glucose Serum Results](./BarChart3-Seaborn.jpg)
+
+
+
 
 ## 7. Files Included
 
@@ -127,6 +157,8 @@ The project includes various visualizations to analyze diabetes patient characte
 • **IDS_mapping.csv** – Mapping dataset used to convert coded values (such as admission type ID, discharge disposition ID, and admission source ID) into meaningful category names for analysis.
 
 • **Main Project-Healthcare.ipynb** – Jupyter Notebook containing data loading, data cleaning, preprocessing, exploratory data analysis (EDA), visualizations, and insights generation using Python.
+
+• **images/** – Folder containing screenshots of visualizations created during the analysis.
 
 • **README.md** – Project overview, objectives, analysis process, key insights, and project documentation.
 
