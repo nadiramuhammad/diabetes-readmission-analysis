@@ -18,6 +18,7 @@ The project demonstrates the complete data analysis workflow, including data cle
 **• Source:** UCI Machine Learning Repository
 
 **• Description:** The dataset contains Diabetic patient's information with the following key columns:
+
 o age_group	
 
 o gender
@@ -40,7 +41,7 @@ o HbA1c_result
 
 o glucose_serum_result
 
-o readmitted
+o readmitted    etc.
 
 ## 4. Steps Followed
 1. Imported the dataset using Pandas.
@@ -86,7 +87,7 @@ o readmitted
 
 * **Emergency admissions accounted for the highest number of hospitalizations and readmissions**, suggesting that acute conditions were a major factor in diabetes-related hospital visits.
 
-* Patients with **abnormal HbA1c (`A1Cresult`) and elevated glucose serum (`max_glu_serum`) results** showed greater healthcare utilization, including longer hospital stays and higher readmission occurrence.
+* Patients with **abnormal HbA1c (`HbA1C_result`) and elevated glucose serum (`glucose_serum_result`) results** showed greater healthcare utilization, including longer hospital stays and higher readmission occurrence.
 
 * Male and female patients displayed **similar readmission patterns**, indicating that gender had only a limited impact on readmission outcomes in this dataset.
 
@@ -96,12 +97,20 @@ o readmitted
 
 The project includes various visualizations to analyze diabetes patient characteristics, hospitalization patterns, and readmission trends.
 
-• Bar charts showing patient distribution across age groups, gender, and admission types.  
-• Count plots analyzing readmission patterns and relationships with patient attributes.  
-• Histogram displaying the distribution of hospital stay duration to understand the frequency and variation of patient hospital stays.  
-• Box plot comparing hospital stay duration across different readmission categories to identify variations in length of stay.   
-• Pie charts representing categorical distributions such as readmission status.  
-• Pair plots exploring relationships between numerical healthcare variables.  
+• Bar charts showing patient distribution across age groups, gender, and admission types.
+
+• Count plots analyzing readmission patterns and relationships with patient attributes.
+
+• Histogram displaying the distribution of hospital stay duration to understand the frequency and variation of patient hospital stays. 
+
+• Box plot comparing hospital stay duration across different readmission categories to identify variations in length of stay. 
+
+• Violin plot showing the distribution of hospital stay duration across different age groups to analyze variations and spread of hospitalization duration      among patient age categories. 
+
+• Pie charts representing categorical distributions such as readmission status. 
+
+• Pair plots exploring relationships between numerical healthcare variables. 
+
 • Interactive Plotly charts for enhanced exploration of healthcare data patterns.
 
 (Screenshots of visualizations can be added here if required.)
